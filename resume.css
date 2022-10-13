@@ -26,7 +26,8 @@ body{
     list-style:none;
 }
 .language li{
-    margin-left: 7em;
+    margin-left: 2em;
+    line-height: 30px;
 }
 .contacts li{
     list-style:none;
@@ -72,4 +73,15 @@ body{
     line-height: 20px;
     text-align: center;
     list-style: none;
+}
+.container4{
+    display: inline-flex;
+}
+.future li{
+    list-style:none;
+    margin-left: 0.5em;
+    font-size: 17px;
+}
+.future span{
+    margin-left: 0.5em;
 }
